@@ -1,0 +1,36 @@
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\project_mazagangy.exe.config
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\project_mazagangy.exe
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\project_mazagangy.pdb
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.csprojResolveAssemblyReference.cache
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.mainForm.resources
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.Properties.Resources.resources
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.csproj.GenerateResource.Cache
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.exe
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.pdb
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\Interop.WMPLib.dll
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\AxInterop.WMPLib.dll
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\Interop.WMPLib.dll
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\AxInterop.WMPLib.dll
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.csproj.ResolveComReference.cache
+c:\users\mohamed elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.Resource1.resources
+C:\Users\Mohamed Elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.Form2.resources
+C:\Users\Mohamed Elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\NAudio.dll
+C:\Users\Mohamed Elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Mohamed Elshek\documents\visual studio 2015\Projects\project_mazagangy\project_mazagangy\bin\Debug\NAudio.xml
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\bin\Debug\project_mazagangy.exe.config
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\Interop.WMPLib.dll
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.csproj.ResolveComReference.cache
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.exe
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.pdb
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\bin\Debug\project_mazagangy.exe
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\bin\Debug\project_mazagangy.pdb
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\bin\Debug\NAudio.xml
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\bin\Debug\Interop.WMPLib.dll
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.csprojResolveAssemblyReference.cache
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.mainForm.resources
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.Form2.resources
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.Properties.Resources.resources
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.Resource1.resources
+C:\Users\otaku\Desktop\project_mazagangy\project_mazagangy\obj\Debug\project_mazagangy.csproj.GenerateResource.Cache
